@@ -1044,10 +1044,6 @@ msgstr "_Paleta de cores:"
 msgid "Colors"
 msgstr "Cores"
 
-#: ../terminatorlib/preferences.glade.h:114
-msgid "Show b_old text in bright colors"
-msgstr ""
-
 #: ../terminatorlib/preferences.glade.h:115
 msgid "_Solid color"
 msgstr "_Cor Sólida"
@@ -1218,8 +1214,8 @@ msgid ""
 msgstr ""
 "<a "
 "\n"
-"<a href=\"https://github.com/gnome-terminator/terminator\">Desenvolvimento</a>\n"
-"<a href=\"https://github.com/gnome-terminator/terminator/issues\">Erros / Melhorias</a>\n"
+"<a href=\"https://github.com/gnome-terminator/terminator\">Development</a>\n"
+"<a href=\"https://github.com/gnome-terminator/terminator/issues\">Bugs / Enhancements</a>\n"
 
 #: ../terminatorlib/preferences.glade.h:159
 msgid "About"
@@ -1729,7 +1725,7 @@ msgstr "Delta"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Epsilon"
-msgstr "Ípsilon"
+msgstr "Épsilon"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Zeta"
@@ -1737,7 +1733,7 @@ msgstr "Zeta"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Eta"
-msgstr "Eta"
+msgstr "Etá"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Theta"
@@ -1749,7 +1745,7 @@ msgstr "Iota"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Kappa"
-msgstr "Capa"
+msgstr "Kappa"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Lambda"
@@ -1757,15 +1753,15 @@ msgstr "Lambda"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Mu"
-msgstr "Mu"
+msgstr "Mi"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Nu"
-msgstr "Nu"
+msgstr "Ni"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Xi"
-msgstr "Xi"
+msgstr "Csi"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Omicron"
@@ -1805,7 +1801,7 @@ msgstr "Psi"
 
 #: ../terminatorlib/titlebar.py:257
 msgid "Omega"
-msgstr "Ómega"
+msgstr "Ômega"
 
 #: ../terminatorlib/window.py:276
 msgid "window"
