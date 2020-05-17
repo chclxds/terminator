@@ -1709,7 +1709,7 @@ msgstr "Insira um novo título para a janela do terminal"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Alpha"
-msgstr "Alpha"
+msgstr "Alfa"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Beta"
@@ -1717,7 +1717,7 @@ msgstr "Beta"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Gamma"
-msgstr "Gamma"
+msgstr "Gama"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Delta"
@@ -1725,7 +1725,7 @@ msgstr "Delta"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Epsilon"
-msgstr "Epsilon"
+msgstr "Épsilon"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Zeta"
@@ -1733,11 +1733,11 @@ msgstr "Zeta"
 
 #: ../terminatorlib/titlebar.py:254
 msgid "Eta"
-msgstr "Tempo Restante Estimado"
+msgstr "Etá"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Theta"
-msgstr "Theta"
+msgstr "Teta"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Iota"
@@ -1753,19 +1753,19 @@ msgstr "Lambda"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Mu"
-msgstr "Mu"
+msgstr "Mi"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Nu"
-msgstr "Nu"
+msgstr "Ni"
 
 #: ../terminatorlib/titlebar.py:255
 msgid "Xi"
-msgstr "Xi"
+msgstr "Csi"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Omicron"
-msgstr "Omicron"
+msgstr "Ómicron"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Pi"
@@ -1773,7 +1773,7 @@ msgstr "Pi"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Rho"
-msgstr "Rho"
+msgstr "Ró"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Sigma"
@@ -1789,7 +1789,7 @@ msgstr "Upsilon"
 
 #: ../terminatorlib/titlebar.py:256
 msgid "Phi"
-msgstr "Phi"
+msgstr "Fi"
 
 #: ../terminatorlib/titlebar.py:257
 msgid "Chi"
@@ -1801,7 +1801,7 @@ msgstr "Psi"
 
 #: ../terminatorlib/titlebar.py:257
 msgid "Omega"
-msgstr "Omega"
+msgstr "Ômega"
 
 #: ../terminatorlib/window.py:276
 msgid "window"
